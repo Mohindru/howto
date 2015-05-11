@@ -1,5 +1,5 @@
 How To Do Things With Computers
-=====
+=========
 
 Simple guides to foundational tech tasks for Code for America projects.
 
@@ -24,6 +24,8 @@ Current Guides
 
 Future Guides
 -------------
+
+
 
 Suggest new guides in the [codeforamerica/howto Github repository](https://github.com/codeforamerica/howto).
 
